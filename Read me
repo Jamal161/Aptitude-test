@@ -1,6 +1,6 @@
 Before use it connect database and install npm
 
-<br>
+
 
 Build a simple frontend with React using a design library (Material UI, Chakra UI, etc) that displays a product page that includes the product name, title, price, description, image, and add to cart button (the button doesn't actually have to point anywhere) -- the page should also include a menu bar ie. it shouldn't be too basic. It should look somewhat like a legitimate product page.
 Build a node.js backend with an API that returns basic product information and fetches data on the frontend.
